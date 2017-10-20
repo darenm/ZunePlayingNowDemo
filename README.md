@@ -1,6 +1,6 @@
 # ZunePlayingNowDemo
 
-I brief sample demoinh a Zune-like now playing experience. The effect is achieved with:
+I brief sample demoing a Zune-like now playing experience. The effect is achieved with:
 
 * Loading an image onto a surface
 * Applying a saturation effect with zero saturation, giving a black and white image
